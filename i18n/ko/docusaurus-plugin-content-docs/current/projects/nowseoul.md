@@ -1,6 +1,6 @@
 ---
 title: 지금서울 (NowSeoul)
-sidebar_label: 지금서울 (NowSeoul)
+sidebar_label: 지금서울
 sidebar_position: 1
 description: 실시간 혼잡도 기반 서울 행사·축제 추천 서비스 — Azure 실시간 데이터 파이프라인
 tags: [Azure, Event Hubs, Stream Analytics, Azure Functions, PostgreSQL, Power BI, Python, Team Project]

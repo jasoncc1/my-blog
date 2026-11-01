@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "SJ",
+    "description": "The title in the navbar"
+  },
+  "item.label.Projects": {
+    "message": "프로젝트",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.Azure Study": {
+    "message": "Azure 공부",
+    "description": "Navbar item with label Azure Study"
+  },
+  "item.label.SQL Notes": {
+    "message": "SQL 노트",
+    "description": "Navbar item with label SQL Notes"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
